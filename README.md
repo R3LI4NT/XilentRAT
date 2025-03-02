@@ -13,3 +13,25 @@
 </p>
 
 <h1 align="center"></h1>
+
+### Acerca de XilentRAT
+
+Xilent es un RAT (Troyano de Acceso Remoto) desarrollado en código Python puro para sistemas Windows. Un RAT es un tipo de malware programado para otorgar acceso y control remoto no autorizado a un sistema infectado, permitiendo al atacante realizar diversas acciones maliciosas, como espiar, robar información sensible y ejecutar comandos remotamente.
+
+El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un RAT de alto nivel utilizando Python, sin ningún fin malicioso ni de causar daño, sino con fines de investigación.
+
+<h1 align="center"></h1>
+
+### Características de Xilent `1.0`:
+
+- [x] **Persistencia:** El RAT se descarga en la ruta `AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`, lo que permite que se ejecute automáticamente cada vez que el sistema se reinicia.
+
+- [x] **Indetectable:**  El código fuente fue pasado por un crypter antes de empaquetar, varios Antivirus y Firewalls no lo detectan.
+
+- [x] **Enmascaramiento:** Para evitar ser detectado por el usuario, el RAT se oculta como una calculadora inofensiva, mientras en segundo plano se descarga el malware.
+
+- [x] **C&C:** Xilent incorpora un comando y control a través de un servidor de discord personalizado para que el atacante interactue con el sistema infectado. Entre los comandos para enviar y recibir se encuentran:
+
+![lista_comandos](https://github.com/user-attachments/assets/84deb6cc-62ae-4bae-82a2-23009032e097)
+
+      
