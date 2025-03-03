@@ -26,7 +26,7 @@ El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un
 
 ### Características de Xilent `1.0`:
 
-- [x] **Persistencia:** El RAT se descarga en la ruta `AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`, lo que permite que se ejecute automáticamente cada vez que el sistema se reinicia.
+- [x] **Persistencia:** El RAT se descarga en la ruta `AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`, lo que permite que se ejecute automáticamente cada vez que el sistema se reinicie.
 
 - [x] **Indetectable:**  El código fuente fue pasado por un crypter antes de empaquetar, indetectable en varios AntiVirus.
 
