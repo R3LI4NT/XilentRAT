@@ -26,7 +26,7 @@ El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un
 
 - [x] **Persistencia:** El RAT se descarga en la ruta `AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`, lo que permite que se ejecute automáticamente cada vez que el sistema se reinicia.
 
-- [x] **Indetectable:**  El código fuente fue pasado por un crypter antes de empaquetar, varios Antivirus y Firewalls no lo detectan.
+- [x] **Indetectable:**  El código fuente fue pasado por un crypter antes de empaquetar, indetectables en varios Antivirus.
 
 - [x] **Enmascaramiento:** Para evitar ser detectado por el usuario, el RAT se oculta como una calculadora inofensiva, mientras en segundo plano se descarga el malware.
 
