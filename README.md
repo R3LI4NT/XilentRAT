@@ -32,7 +32,7 @@ El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un
 
 - [x] **C&C:** Xilent incorpora un comando y control a través de un servidor de discord personalizado para que el atacante interactue con el sistema infectado. Entre los comandos para enviar y recibir se encuentran:
 
-![lista_comandos](https://github.com/user-attachments/assets/84deb6cc-62ae-4bae-82a2-23009032e097)
+![lista_comandos](https://github.com/user-attachments/assets/dbfd49aa-d1c7-4085-8ba8-a85fa85e812b)
 
 </br>
 
