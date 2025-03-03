@@ -34,8 +34,6 @@ El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un
 
 ![lista_comandos](https://github.com/user-attachments/assets/dbfd49aa-d1c7-4085-8ba8-a85fa85e812b)
 
-</br>
-
 <h1 align="center"></h1>
 
 > [!CAUTION]
