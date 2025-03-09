@@ -1,4 +1,4 @@
-<p align="center">
+![FakeScanner](https://github.com/user-attachments/assets/7de5d0bd-2e93-40db-bd21-f4c0dd8d0735)<p align="center">
   <img src="https://github.com/user-attachments/assets/9853cdc4-1220-4544-a6a1-fa3443b7cfc8" alt="Purge Logo" Logo" />
 </p>
 
@@ -20,11 +20,19 @@ Xilent es un RAT (_Troyano de Acceso Remoto_) desarrollado en código Python pur
 
 El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un RAT de alto nivel utilizando Python, sin ningún fin malicioso ni de causar daño, sino con fines de investigación.
 
-**Testeado en:** Windows 10/11
+**Testeado en:** Windows 10/11.
+
+<h1 align="center"></h1>
+
+### Características de Xilent `1.2`:
 
 <h1 align="center"></h1>
 
 ### Características de Xilent `1.0`:
+
+- [x] **Enmascaramiento:** Se diseñó un escáner de malware falso con el fin de permitir que el RAT tenga suficiente tiempo para descargarse en la máquina infectada.
+      ![FakeScanner](https://github.com/user-attachments/assets/f4ae453d-8636-42f1-8366-d95d48b67b96)
+
 
 - [x] **Persistencia:** El RAT se descarga en la ruta `AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`, lo que permite que se ejecute automáticamente cada vez que el sistema se reinicie.
 
