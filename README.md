@@ -26,13 +26,12 @@ El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un
 
 ### Características de Xilent `1.2`:
 
-<h1 align="center"></h1>
-
-### Características de Xilent `1.0`:
-
 - [x] **Enmascaramiento:** Se diseñó un escáner de malware falso con el fin de permitir que el RAT tenga suficiente tiempo para descargarse en la máquina infectada.
       ![FakeScanner](https://github.com/user-attachments/assets/f4ae453d-8636-42f1-8366-d95d48b67b96)
 
+<h1 align="center"></h1>
+
+### Características de Xilent `1.0`:
 
 - [x] **Persistencia:** El RAT se descarga en la ruta `AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`, lo que permite que se ejecute automáticamente cada vez que el sistema se reinicie.
 
