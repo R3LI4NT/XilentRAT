@@ -52,26 +52,25 @@ El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un
 
 #### Demostración de algunos comandos:
 
-![9](https://github.com/user-attachments/assets/f762dcdd-0969-4b73-a632-5d4e6c72183a)
+![1](https://github.com/user-attachments/assets/2ab4462d-e271-42d5-a320-e4d74d3865ce)
 
-![8](https://github.com/user-attachments/assets/2e39b977-0f4e-46eb-a4d7-f6d56a865d9b)
+![2](https://github.com/user-attachments/assets/4d7b9ef4-2338-4150-aa28-cbd596d81859)
 
-![7](https://github.com/user-attachments/assets/192182ca-5950-4494-aab2-1b815f41a05e)
+![3](https://github.com/user-attachments/assets/11a2a47e-a6ee-4723-ae36-69e0ac28a709)
 
-![6](https://github.com/user-attachments/assets/e8e2b729-bee8-4442-8dac-d25cdf39cfbc)
+![4](https://github.com/user-attachments/assets/74620462-e87f-4f89-9223-f36b4d4f5e90)
 
-![5](https://github.com/user-attachments/assets/a5f1f0e1-381b-4a72-823a-cd048d7574b6)
+![5](https://github.com/user-attachments/assets/01f13354-7ca4-42d9-b317-f6936c3740df)
 
-![4](https://github.com/user-attachments/assets/0f02567c-2a3f-45fd-9550-0f5f1c172e91)
+![6](https://github.com/user-attachments/assets/736ff149-0429-4952-8507-90954cc05dd0)
 
-![3](https://github.com/user-attachments/assets/dce0bde9-8798-4294-ba84-37fac5cf0e69)
+![7](https://github.com/user-attachments/assets/397edb0d-a82e-4f7b-b473-6970bfdbde09)
 
-![2](https://github.com/user-attachments/assets/002cf1d2-d537-4d4f-9b68-55b1b4b33b22)
+![8](https://github.com/user-attachments/assets/a5b76669-3bcb-4244-a777-abaa407cebc3)
 
-![1](https://github.com/user-attachments/assets/d52ca728-cb86-40d7-b00c-92b58ff3b6f1)
+![9](https://github.com/user-attachments/assets/8890d971-9461-4e8e-bfb5-0ece5b10478b)
 
-![10](https://github.com/user-attachments/assets/d0226979-7206-49c5-9d44-18fe5582a33f)
-
+![10](https://github.com/user-attachments/assets/4e4c1ea7-386a-4cb7-ba16-0d885ddcfb68)
 
 <h1 align="center"></h1>
 
