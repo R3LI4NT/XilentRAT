@@ -48,6 +48,30 @@ El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un
 - [x] **C&C:** Xilent incorpora un comando y control a través de un servidor de discord personalizado para que el atacante interactue con el sistema infectado. Entre los comandos para enviar y recibir se encuentran:
       ![lista_comandos](https://github.com/user-attachments/assets/dbfd49aa-d1c7-4085-8ba8-a85fa85e812b)
 
+<h1 align="center"></h1>
+
+#### Demostración de algunos comandos:
+
+![9](https://github.com/user-attachments/assets/f762dcdd-0969-4b73-a632-5d4e6c72183a)
+
+![8](https://github.com/user-attachments/assets/2e39b977-0f4e-46eb-a4d7-f6d56a865d9b)
+
+![7](https://github.com/user-attachments/assets/192182ca-5950-4494-aab2-1b815f41a05e)
+
+![6](https://github.com/user-attachments/assets/e8e2b729-bee8-4442-8dac-d25cdf39cfbc)
+
+![5](https://github.com/user-attachments/assets/a5f1f0e1-381b-4a72-823a-cd048d7574b6)
+
+![4](https://github.com/user-attachments/assets/0f02567c-2a3f-45fd-9550-0f5f1c172e91)
+
+![3](https://github.com/user-attachments/assets/dce0bde9-8798-4294-ba84-37fac5cf0e69)
+
+![2](https://github.com/user-attachments/assets/002cf1d2-d537-4d4f-9b68-55b1b4b33b22)
+
+![1](https://github.com/user-attachments/assets/d52ca728-cb86-40d7-b00c-92b58ff3b6f1)
+
+![10](https://github.com/user-attachments/assets/d0226979-7206-49c5-9d44-18fe5582a33f)
+
 
 <h1 align="center"></h1>
 
