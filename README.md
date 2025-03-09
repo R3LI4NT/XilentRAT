@@ -43,6 +43,8 @@ El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un
 
 - [x] **Enmascaramiento:** Para evitar ser detectado por el usuario, el RAT se oculta como una calculadora inofensiva, mientras en segundo plano se descarga el malware.
 
+- [x] **Builder:** Cuenta con un builder para empaquetar el source code a un .EXE de forma automatizada.
+
 - [x] **C&C:** Xilent incorpora un comando y control a través de un servidor de discord personalizado para que el atacante interactue con el sistema infectado. Entre los comandos para enviar y recibir se encuentran:
       ![lista_comandos](https://github.com/user-attachments/assets/dbfd49aa-d1c7-4085-8ba8-a85fa85e812b)
 
