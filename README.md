@@ -29,6 +29,10 @@ El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un
 - [x] **Enmascaramiento:** Se diseñó un escáner de malware falso con el fin de permitir que el RAT tenga suficiente tiempo para descargarse en la máquina infectada.
       ![FakeScanner](https://github.com/user-attachments/assets/f4ae453d-8636-42f1-8366-d95d48b67b96)
 
+- [x] **Comandos:** Se añadieron nuevos comandos remotos en el C&C:
+      ![lista_comandos2](https://github.com/user-attachments/assets/becf12ef-9074-483e-ae10-2eeeb0c6a151)
+
+
 <h1 align="center"></h1>
 
 ### Características de Xilent `1.0`:
