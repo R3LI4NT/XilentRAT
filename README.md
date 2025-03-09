@@ -30,7 +30,7 @@ El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un
       ![FakeScanner](https://github.com/user-attachments/assets/f4ae453d-8636-42f1-8366-d95d48b67b96)
 
 - [x] **Comandos:** Se añadieron nuevos comandos remotos en el C&C:
-      ![lista_comandos2](https://github.com/user-attachments/assets/becf12ef-9074-483e-ae10-2eeeb0c6a151)
+      ![lista_comandos2](https://github.com/user-attachments/assets/acb1c69f-755c-454a-96d5-f0a3711e0792)
 
 
 <h1 align="center"></h1>
