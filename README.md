@@ -72,6 +72,9 @@ El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un
 
 ![10](https://github.com/user-attachments/assets/4e4c1ea7-386a-4cb7-ba16-0d885ddcfb68)
 
+![11](https://github.com/user-attachments/assets/afb8eb64-0134-4f7b-b854-e13cbe480f01)
+
+
 <h1 align="center"></h1>
 
 > [!CAUTION]
