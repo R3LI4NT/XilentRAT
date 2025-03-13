@@ -18,8 +18,6 @@
 
 Xilent es un RAT (_Troyano de Acceso Remoto_) desarrollado en código Python puro para sistemas Windows. Un RAT es un tipo de malware programado para otorgar acceso y control remoto no autorizado a un sistema infectado, permitiendo al atacante realizar diversas acciones maliciosas, como espiar, robar información sensible y ejecutar comandos remotamente.
 
-El proyecto es de uso **privado** y fue creado con el objetivo de desarrollar un RAT de alto nivel utilizando Python, sin ningún fin malicioso ni de causar daño, sino con fines de investigación.
-
 **Testeado en:** Windows 10/11.
 
 <h1 align="center"></h1>
