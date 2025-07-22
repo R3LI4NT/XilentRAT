@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9853cdc4-1220-4544-a6a1-fa3443b7cfc8" alt="XilentRAT" Logo" />
+  <img src="https://github.com/user-attachments/assets/49fafd17-c6cb-4aff-b4ad-96166ad386d6" alt="XilentRAT" Logo" />
 </p>
+
 
 <p align="center">
     <a href="https://python.org">
