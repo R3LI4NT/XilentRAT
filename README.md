@@ -25,7 +25,7 @@ Es parte de la familia <a href="https://github.com/R3LI4NT/XilentLocker">XilentL
 
 <h1 align="center"></h1>
 
-### Características de Xilent `1.2`:
+### Características de XilentRAT `1.2`:
 
 - [x] **Enmascaramiento:** Se diseñó un escáner de malware falso con el fin de permitir que el RAT tenga suficiente tiempo para descargarse en la máquina infectada.
       ![FakeScanner](https://github.com/user-attachments/assets/f4ae453d-8636-42f1-8366-d95d48b67b96)
@@ -36,7 +36,7 @@ Es parte de la familia <a href="https://github.com/R3LI4NT/XilentLocker">XilentL
 
 <h1 align="center"></h1>
 
-### Características de Xilent `1.0`:
+### Características de XilentRAT `1.0`:
 
 - [x] **Persistencia:** El RAT se descarga en la ruta `AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`, lo que permite que se ejecute automáticamente cada vez que el sistema se reinicie.
 
