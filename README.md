@@ -25,28 +25,6 @@ Es parte de la familia <a href="https://github.com/R3LI4NT/XilentLocker">XilentL
 
 <h1 align="center"></h1>
 
-#### Modo de uso
-
-> Proyecto liberado el 10/08/2025
-
-Crear y configurar un bot de Discord desde el sitio oficial https://discord.com/developers/docs/intro. 
-
-<img width="1219" height="634" alt="bot-1" src="https://github.com/user-attachments/assets/d923f606-1033-4512-9b45-b00019fe54e3" />
-
-Copiar el token del Bot y el ID del canal de Discord donde operarán el RAT. Luego deben pegar el token e ID en `encrypt_token.py` y ejecutan el script para generar los datos cifrados.
-
-<img width="519" height="187" alt="bot-2" src="https://github.com/user-attachments/assets/2274618d-c17e-4ddd-b1fd-c4a39c23f436" />
-
-Los valores devuelos deben pasarlos al script de `commands.py` para que el Bot pueda conectarse al servidor.
-
-<img width="477" height="237" alt="bot-3" src="https://github.com/user-attachments/assets/8119e4a2-d1e4-49a1-bed5-6ae1735b9218" />
-
-Para el módulo de persistencia deben empaquetar el .exe de `commands.py` y subirlo a un servidor externo para luego ser descargado de forma silenciosa.
-
-<img width="1003" height="210" alt="bot-4" src="https://github.com/user-attachments/assets/8acc2929-b0ee-4981-bf46-2af623f919c7" />
-
-<h1 align="center"></h1>
-
 ### Características de XilentRAT `1.2`:
 
 - [x] **Enmascaramiento:** Se diseñó un escáner de malware falso con el fin de permitir que el RAT tenga suficiente tiempo para descargarse en la máquina infectada.
@@ -97,6 +75,29 @@ Para el módulo de persistencia deben empaquetar el .exe de `commands.py` y subi
 
 ![11](https://github.com/user-attachments/assets/afb8eb64-0134-4f7b-b854-e13cbe480f01)
 
+<h1 align="center"></h1>
+
+#### Modo de uso
+
+> Proyecto liberado el 10/08/2025
+
+Crear y configurar un bot de Discord desde el sitio oficial https://discord.com/developers/docs/intro. 
+
+<img width="1219" height="634" alt="bot-1" src="https://github.com/user-attachments/assets/d923f606-1033-4512-9b45-b00019fe54e3" />
+
+Copiar el token del Bot y el ID del canal de Discord donde operarán el RAT. Luego deben pegar el token e ID en `encrypt_token.py` y ejecutan el script para generar los datos cifrados.
+
+<img width="519" height="187" alt="bot-2" src="https://github.com/user-attachments/assets/2274618d-c17e-4ddd-b1fd-c4a39c23f436" />
+
+Los valores devuelos deben pasarlos al script de `commands.py` para que el Bot pueda conectarse al servidor.
+
+<img width="477" height="237" alt="bot-3" src="https://github.com/user-attachments/assets/8119e4a2-d1e4-49a1-bed5-6ae1735b9218" />
+
+Para el módulo de persistencia deben empaquetar el .exe de `commands.py` y subirlo a un servidor externo para luego ser descargado de forma silenciosa.
+
+<img width="1003" height="210" alt="bot-4" src="https://github.com/user-attachments/assets/8acc2929-b0ee-4981-bf46-2af623f919c7" />
+
+<h1 align="center"></h1>
 
 <h1 align="center"></h1>
 
