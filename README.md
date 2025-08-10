@@ -39,6 +39,10 @@ Los valores devuelos deben pasarlos al script de `commands.py` para que el Bot p
 
 <img width="477" height="237" alt="bot-3" src="https://github.com/user-attachments/assets/8119e4a2-d1e4-49a1-bed5-6ae1735b9218" />
 
+Para el módulo de persistencia deben empaquetar el .exe de `commands.py` y subirlo a un servidor externo para luego ser descargado de forma silenciosa.
+
+<img width="1003" height="210" alt="bot-4" src="https://github.com/user-attachments/assets/8acc2929-b0ee-4981-bf46-2af623f919c7" />
+
 <h1 align="center"></h1>
 
 ### Características de XilentRAT `1.2`:
