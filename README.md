@@ -31,7 +31,7 @@ Crear y configurar un bot de Discord desde el sitio oficial https://discord.com/
 
 <img width="1219" height="634" alt="bot-1" src="https://github.com/user-attachments/assets/d923f606-1033-4512-9b45-b00019fe54e3" />
 
-Copiar el token del Bot y el ID del canal de Discord donde operarán el RAT. Luego deben pegar el token e ID en `ecnrypt_token.py` y ejecutan el script para generar los datos cifrados.
+Copiar el token del Bot y el ID del canal de Discord donde operarán el RAT. Luego deben pegar el token e ID en `encrypt_token.py` y ejecutan el script para generar los datos cifrados.
 
 <img width="519" height="187" alt="bot-2" src="https://github.com/user-attachments/assets/2274618d-c17e-4ddd-b1fd-c4a39c23f436" />
 
