@@ -25,7 +25,7 @@ Es parte de la familia <a href="https://github.com/R3LI4NT/XilentLocker">XilentL
 
 <h1 align="center"></h1>
 
-### Modo de uso.
+### Modo de uso - Proyecto liberado el 10/08/2025
 
 Crear y configurar un bot de Discord desde el sitio oficial https://discord.com/developers/docs/intro. 
 
